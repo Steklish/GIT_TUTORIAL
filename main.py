@@ -1,5 +1,8 @@
 import module
 
+for i in range(1000):
+    print(i)
+
 print("""
 HELLO THERE YOU MAMA FAT
 ========================
