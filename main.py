@@ -1,4 +1,5 @@
 import module
+print("another line")
 
 print("""
 HELLO THERE YOU MAMA FAT
